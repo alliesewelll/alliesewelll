@@ -1,6 +1,6 @@
 👋 Hi, I’m @alliesewelll
 
-I am currently a junior at THE Ohio State University studying Computer Science & Engineering, with a specialization in data science and database systems, and a minor in business. I have been learning how to program for years, and I enjoy using my skills to find solutions that merge business operations with data driven insights. 
+I am currently a junior at The Ohio State University studying Computer Science & Engineering, with a specialization in data science and database systems, and a minor in business. I enjoy using my skills to find solutions that merge business operations with data driven insights. 
 
 - 🛠️ Skills: Python, Java, React.js, C++, Git, Excel, HTML
 - 🌱 Currently Learning: Next.js, SQL
