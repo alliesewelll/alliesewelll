@@ -2,8 +2,8 @@
 
 I am currently a junior at The Ohio State University studying Computer Science & Engineering, with a specialization in data analysis and database systems, and a minor in business. I enjoy using my skills to find solutions that merge business operations with data driven insights. 
 
-- Skills: Python, Java, SQL, HTML/CSS, Javascript
-- Currently Learning: R, Next.js
+- Skills: Python, Java, R, SQL, HTML/CSS, Javascript
+- Currently Learning: Next.js, sci-kit learn
 - 📫 How to reach me: sewell.125@osu.edu
 - ⚡ Interests: Hiking, Skiing, Reggae Music, Vintage Shopping, Cats 
 
