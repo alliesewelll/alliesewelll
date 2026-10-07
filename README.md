@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Allie!
+# Introduction
 
 Hi, I'm **Allie Sewell**!
 
