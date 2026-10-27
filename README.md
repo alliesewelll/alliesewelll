@@ -14,7 +14,7 @@ Outside of tech, I love hiking, skiing, reggae music, vintage shopping, and cats
 
 Here are a few things I've been working on recently:
 
-- 🧠 **Study Buddy**
+- 🧠 **Study Buddy**  
   Native macOS AI study assistant with a pinnable chat window, concise explanations, course-material uploads, and screenshot-based question
   support.
 
